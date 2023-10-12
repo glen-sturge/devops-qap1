@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7aab4e7f-415e-457b-93ce-5b717a5ca9b2" name="Changes" comment="first test">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7aab4e7f-415e-457b-93ce-5b717a5ca9b2" name="Changes" comment="first test - added test resource folder">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,12 +43,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "first-test",
-    "last_opened_file_path": "C:/Users/GLEN/IdeaProjects/devops-qap1/src/main/resources",
+    "last_opened_file_path": "C:/Users/GLEN/IdeaProjects/devops-qap1/src/test",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\GLEN\IdeaProjects\devops-qap1\src\test" />
+      <recent name="C:\Users\GLEN\IdeaProjects\devops-qap1\src\test\java" />
       <recent name="C:\Users\GLEN\IdeaProjects\devops-qap1\src\main\resources" />
       <recent name="C:\Users\GLEN\IdeaProjects\devops-qap1\src\main\java" />
     </key>
@@ -58,7 +58,7 @@
       <recent name="com.keyin" />
     </key>
   </component>
-  <component name="RunManager" selected="Maven.package + tests">
+  <component name="RunManager" selected="JUnit.SuggestionEngineTest">
     <configuration name="SuggestionEngine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.keyin.SuggestionEngine" />
       <module name="devops-qap1" />
@@ -134,8 +134,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SuggestionEngine" />
         <item itemvalue="JUnit.SuggestionEngineTest" />
+        <item itemvalue="Application.SuggestionEngine" />
         <item itemvalue="JUnit.SuggestionEngineTest.testLoadDictionaryData" />
       </list>
     </recent_temporary>
@@ -165,13 +165,22 @@
       <option name="project" value="LOCAL" />
       <updated>1697070936314</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first test - added test resource folder">
+      <option name="closed" value="true" />
+      <created>1697086119680</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697086119680</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Push" />
     <MESSAGE value="first test" />
-    <option name="LAST_COMMIT_MESSAGE" value="first test" />
+    <MESSAGE value="first test - added test resource folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="first test - added test resource folder" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
