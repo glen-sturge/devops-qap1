@@ -114,7 +114,7 @@ public class SuggestionEngine {
             return;
         }
 
-        System.out.println(suggestionEngine.generateSuggestions("car"));
+        System.out.println(suggestionEngine.generateSuggestions(args[0]));
 
     }
 }
